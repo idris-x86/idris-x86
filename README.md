@@ -1,3 +1,4 @@
 - Hi, I'm a goober.
-- Low level in Python and Windows Batch
+- Low level knowledge in Windows, bash and python. VERY low level.
+- I make many games. 
 - No, I do not have any grapes.
